@@ -8,13 +8,18 @@ This project was made with [Node.js](https://nodejs.org/), [Express](https://exp
 Open your terminal and run this command in the folder where you want to place the project:
 
 ```bash
-git clone git@github.com:rafaelcesar0/starwars-api.git```
+git clone git@github.com:rafaelcesar0/starwars-api.git
+```
 
 right after one:
 
-`npm install`
+```bash
+npm install
+```
 
 to run the project:
 
-`npm run start`
+```bash
+npm run start
+```
 
