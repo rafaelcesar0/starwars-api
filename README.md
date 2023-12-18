@@ -7,7 +7,8 @@ This project was made with [Node.js](https://nodejs.org/), [Express](https://exp
 
 Open your terminal and run this command in the folder where you want to place the project:
 
-```git clone git@github.com:rafaelcesar0/starwars-api.git```
+```bash
+git clone git@github.com:rafaelcesar0/starwars-api.git```
 
 right after one:
 
